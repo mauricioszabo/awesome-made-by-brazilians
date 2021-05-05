@@ -277,6 +277,13 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[workspaces](https://github.com/nubank/workspaces)** by [Nubank](https://github.com/nubank)  
   Live development environment for Clojurescript  
    ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
+   
+- **[Chlorine](https://github.com/mauricioszabo/atom-chlorine) by [Maurício Szabo](https://github.com/mauricioszabo)
+  Socket REPL and nREPL plug-in for the Atom editor, supporting interactive coding and custom visualization of results
+- **[Clover](https://github.com/mauricioszabo/clover) by [Maurício Szabo](https://github.com/mauricioszabo)
+  A port of Chlorine to VSCode/VSCodium/Theia
+- **[Pathom](https://github.com/wilkerlucio/pathom) by [Lúcio Wilker](https://github.com/wilkerlucio)
+  Originally, a library to ease writing graph query processing parsers, evolved into something much bigger - an easy to use, simple logic engine for attribute processing on Clojure and ClojureScript
 
 <a name="dart"></a>
 
